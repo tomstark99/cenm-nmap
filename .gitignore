@@ -11,5 +11,5 @@ shell-commands/
 ssh/
 network-parameters.conf
 networkmap.conf
-
 nodeInfo*
+token
