@@ -9,5 +9,7 @@ logs/
 h2/
 shell-commands/
 ssh/
-
+network-parameters.conf
+networkmap.conf
 nodeInfo*
+token
